@@ -38,4 +38,4 @@ a = 10
 ```
 
 # Bloques en Latex
-$`\sqrt{\$4}`$
+$`\sqrt{4}`$
