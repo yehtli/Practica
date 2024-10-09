@@ -18,9 +18,11 @@ Este es mi perfil de [Google Scholar](https://scholar.google.com/citations?user=
 
 # En línea con el texto
 
-![Alternative text](/path/to/img.jpg "Optional title")
+![Alternative text](/images.jpg "Logo de la EOBM")
 
 # Referencias
 
 ![Alternative text][id]
 [id]: url/to/image "Optional title"
+
+escribe la variable ‘‘‘x‘‘‘ en el apartado ‘‘‘m‘‘‘ 
