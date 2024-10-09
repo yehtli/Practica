@@ -18,7 +18,7 @@ Este es mi perfil de [Google Scholar](https://scholar.google.com/citations?user=
 
 # En línea con el texto
 
-![Alternative text](/images.jpg "Logo de la EOBM")
+![Logo de la vigésimo quinta escuela de otoño se biología matemática](/images.jpeg "Logo de la EOBM")
 
 # Referencias
 
@@ -42,5 +42,5 @@ Simple: $\sqrt{4}$
 
 Como un bloque
 ```math
- \mathbold{N}^{t+1} =  \mathbold{I}^t +\mathcal{R}(\mathbold{N}^t) $$
+ \mathbold{N}^{t+1} =  I^t +R(N^t)
 ```
