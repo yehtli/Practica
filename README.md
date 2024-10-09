@@ -42,5 +42,5 @@ Simple: $\sqrt{4}$
 
 Como un bloque
 ```math
- \mathbold{N}^{t+1} =  I^t +R(N^t)
+ N^{t+1} =  I^t +R(N^t)
 ```
