@@ -41,4 +41,4 @@ a = 10
 Simple: $\sqrt{4}$
 
 Como un bloque
-$$ \mathbold{N}^{t+1} =  \mathbold{I}^t +\mathcal{R}(\mathbold{N}^t)$$
+$$ \mathbold{N}^{t+1} =  \mathbold{I}^t +\mathcal{R}(\mathbold{N}^t) $$
