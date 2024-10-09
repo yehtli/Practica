@@ -36,3 +36,6 @@ import matplotlib.pyplot as plt
 
 a = 10
 ```
+
+# Bloques en Latex
+$`\sqrt{\$4}`$
