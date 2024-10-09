@@ -37,5 +37,8 @@ import matplotlib.pyplot as plt
 a = 10
 ```
 
-# Bloques en Latex
-$`\sqrt{4}`$
+# Formato de Latex
+Simple: $\sqrt{4}$
+
+Como un bloque
+$$ \mathbold{N}^{t+1} =  \mathbold{I}^t +\mathcal{R}(\mathbold{N}^t)$$
