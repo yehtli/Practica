@@ -25,4 +25,14 @@ Este es mi perfil de [Google Scholar](https://scholar.google.com/citations?user=
 ![Alternative text][id]
 [id]: url/to/image "Optional title"
 
-escribe la variable ‘‘‘x‘‘‘ en el apartado ‘‘‘m‘‘‘ 
+# Código 
+
+escribe la variable ```x``` en el apartado  ```m```
+Para escribir en una syntaxis determinada
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+a = 10
+```
