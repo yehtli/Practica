@@ -16,3 +16,11 @@ Conozco los siguientes lenguajes de programación
 
 Este es mi perfil de [Google Scholar](https://scholar.google.com/citations?user=gwc8F5AAAAAJ&hl=es)
 
+# En línea con el texto
+
+![Alternative text](/path/to/img.jpg "Optional title")
+
+# Referencias
+
+![Alternative text][id]
+[id]: url/to/image "Optional title"
